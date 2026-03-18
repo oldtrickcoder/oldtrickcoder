@@ -11,8 +11,8 @@ I'm a developer based in Bandung, Indonesia. My programming journey is a bit uni
 
 **Find me online:**
 
-- 🌐 [Portfolio](https://yodagunawan.tech)
-- 📝 [Blog](https://blog.yodagunawan.tech)
+- 🌐 [Portfolio](https://yodagunawan.digital)
+- 📝 [Blog](https://myblog.yodagunawan.digital)
 
 ---
 
